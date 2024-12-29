@@ -1,0 +1,59 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="SBT GO" tvg-logo="http://i.imgur.com/Jotugf0.png" group-title="CANAL ABERTO", SBT GO SD
+http://tvsd2.zoeweb.tv:1935/tvsd2/smil:tvsd2.smil/playlist.m3u8?EDSONSOUSALIST 
+#EXTINF:-1 tvg-id="TVE BRASIL" tvg-logo="https://i.imgur.com/oNpqaxy.png?1" group-title="CANAL ABERTO", TVE BRASIL
+http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
+#EXTINF:-1 tvg-id="TV EDUCATIVA" tvg-logo="https://i.imgur.com/Agw8tsJ.png" group-title="CANAL ABERTO", TV EDUCATIVA
+http://rbc.directradios.com:1935/rbc/smil:rbc.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="CAT TVE" tvg-logo="https://i.imgur.com/VlHeBLa.png?1" group-title="CANAL ABERTO", CAT TVE
+http://wowza4.catve.com.br:1935/live/livestream/chunklist_w708731897.m3u8?EDSONSOUSALIST
+#EXTINF:-1 tvg-id="TV CÂMARA" tvg-logo="https://i.imgur.com/l5NOPFp.png" group-title="CANAL ABERTO", TV CÂMARA
+http://stream2.camara.leg.br:8134/tv1/manifest.m3u8
+#EXTINF:-1 tvg-id="TV CÂMARA" tvg-logo="https://i.imgur.com/l5NOPFp.png" group-title="CANAL ABERTO", TV CÂMARA
+http://stream2.camara.leg.br:8134/tv2/manifest.m3u8
+#EXTINF:-1 vg-id="IMPD TV" tvg-logo="https://i.imgur.com/P65xCOI.jpg" group-title="RELIGIOSO", IMPD TV
+https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/playlist.m3u8?
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/GpdqTfb.png?1" group-title="VARIEDADES",FOX HITS 
+http://live.streams.ovh:1935/foxtv/foxtv/playlist.m3u8
+#EXTINF:-1 tvg-id="MASTER TV " tvg-logo="https://mastertvsite.files.wordpress.com/2016/04/caio-alpha-cargo-copia.png?w=300" group-title="VARIEDADES",MASTER TV 
+http://wowza4.catve.com.br:1935/mastertv/livestream/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1no2stT.jpg" group-title="VARIEDADES", RETRO MUSIC HD
+http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ozCnnDg.png" group-title="CANAIS INTERNACIONAIS", CHI: TV SENADO HD
+http://janus-tv-ply.senado.cl/playlist/stream.m3u8?s=tvsenado-hd
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KO9XhLU.png" group-title="CANAIS INTERNACIONAIS", CHI: SPORTING HD
+http://unlimited6-cl.dps.live/sportinghd/sportinghd.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CANAIS INTERNACIONAIS", MEX: CANAL 10
+http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Xwbpj7i.jpg" group-title="CANAIS INTERNACIONAIS", PER: OVACION SD
+http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
+#EXTINF:-1 tvg-id="BLOOMBERG TV" tvg-logo="https://i.imgur.com/07QG2DA.jpg?1" group-title="NOTÍCIAS", BLOOMBERG TV  - USA
+https://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-700-1_live.m3u8
+#EXTINF:-1 tvg-id="BLOOMBERG TV" tvg-logo="https://i.imgur.com/07QG2DA.jpg?1" group-title="NOTÍCIAS", BLOOMBERG TV  HD- USA 
+https://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ySm0J4N.png" group-title="NOTÍCIAS",TVW
+http://d3ktuc8v2sjk6m.cloudfront.net/livetv/ngrp:TVWAIR_all/chucklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ySm0J4N.png" group-title="NOTÍCIAS",TVW-2 HD
+http://d3ktuc8v2sjk6m.cloudfront.net/livetv/ngrp:TVW2_all/master.m3u8
+#EXTINF:-1 tvg-logo="http://s3.vefire.ru/l/250x150/ru/100AutoMoto.png" group-title="ESPORTES INTERNACIONAIS", 100AUTOMOTO TV
+http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://media.cdnandroid.com/40/89/b3/9b/imagen-kids-tv-0thumb.jpg" group-title="CANAIS INFANTIL", TV KID MAIS
+http://tv01.logicahost.com.br:1935/tvkidmais01/tvkidmais01/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/uhujdoE.jpg?1" group-title="FILMES E SÉRIES", TV DIGITAL BIRIGUI
+http://tv02.logicahost.com.br:1935/tvdigitalbirigui/tvdigitalbirigui/live.m3u8
+#EXTINF:-1 GROUP-TITLE="RÁDIOS PARAÍBA" TVG-LOGO="" TVG-NAME=''RADIO=TRUE, CBN - CAMPINA GRANDE
+http://audio.cabobranco.tv.br:8000/cbncg
+#EXTINF:-1 GROUP-TITLE="RÁDIOS PARAÍBA" TVG-LOGO="" TVG-NAME=''RADIO=TRUE, CABO BRANCO FM - JOÃO PESSOA
+http://audio.cabobranco.tv.br:8000/cbfm
+#EXTINF:-1 GROUP-TITLE="RÁDIOS PARAÍBA" TVG-LOGO="https://img.radios.com.br/radio/lg/radio13666_1506082366.jpg" TVG-NAME=''RADIO=TRUE, LIDER 97 FM - SOUSA
+http://wz3.dnip.com.br/lider97/lider97.stream/playlist.m3u8
+#EXTINF:-1 GROUP-TITLE="RÁDIOS PARAÍBA" TVG-LOGO="http://www.liberdadepb.com.br/wp-content/themes/liberdadepb/img/logo-liberdade-pb2.png" TVG-NAME=''RADIO=TRUE, LIBERDADE FM - POMBAL
+http://centova14.ciclanohost.com.br:8180/;
+#EXTINF:-1 GROUP-TITLE="RÁDIOS PARAÍBA" TVG-LOGO="https://img.radios.com.br/radio/xl/radio37419_1466427950.jpg" TVG-NAME=''RADIO=TRUE, ESTAÇÃO JC - POMBAL
+http://streaming15.hstbr.net:8224/live
+#EXTINF:-1 GROUP-TITLE="SOUND!" TVG-LOGO="http://www.massivevibes.ca/uploads/3/4/9/1/34911258/2271410_orig.png" TVG-NAME=''RADIO=TRUE,RÁDIO ATLÂNTIDA FM
+http://42747t.lp.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/atl_poa.sdp/playlist.m3u8
+#EXTINF:-1 GROUP-TITLE="SOUND!" TVG-LOGO="http://www.massivevibes.ca/uploads/3/4/9/1/34911258/2271410_orig.png" TVG-NAME=''RADIO=TRUE,RÁDIO FARROUPILHA FM/AM
+http://92747t.lp.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/far_poa.sdp/playlist.m3u8
+#EXTINF:-1 GGROUP-TITLE="SOUND!" TVG-LOGO="http://www.massivevibes.ca/uploads/3/4/9/1/34911258/2271410_orig.png" TVG-NAME=''RADIO=TRUE,RÁDIO ITAPEMA FM
+http://82747t.lp.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/ita_poa.sdp/playlist.m3u8
